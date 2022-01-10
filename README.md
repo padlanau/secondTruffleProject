@@ -1,1 +1,3 @@
-# secondTruffleProject - solidity documentation purposes only
+# secondTruffleProject 
+
+## Solidity documentation purposes only
