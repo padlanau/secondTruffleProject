@@ -26,6 +26,7 @@ contract DataTypesAndDataLocation {
     uint  u  = 1;
     uint8 u8 = 8;
     uint public up = 33;
+    unit constant NUM_RANDOM_BYTES_REQUESTED = 1;
 
   /*
     int: can store negative 
